@@ -1,0 +1,678 @@
+{
+    "01": {
+        "Name": "Make public statement",
+        "Description": "All public statements expressed verbally or in action."
+    },
+    "010": {
+        "Name": "Make statement, not specified",
+        "Description": "All public statements expressed verbally or in action, not otherwise specified."
+    },
+    "011": {
+        "Name": "Decline comment",
+        "Description": "Explicitly decline or refuse to comment on a situation."
+    },
+    "012": {
+        "Name": "Make pessimistic comment",
+        "Description": "Express pessimism, negative outlook."
+    },
+    "013": {
+        "Name": "Make optimistic comment",
+        "Description": "Express optimism, assurance, confidence."
+    },
+    "014": {
+        "Name": "Consider policy option",
+        "Description": "Review, reflect upon, or study policy option."
+    },
+    "015": {
+        "Name": "Acknowledge or claim responsibility",
+        "Description": "Non-apologetically claim responsibility, admit an error or wrongdoing, or retract a statement without expression of remorse."
+    },
+    "016": {
+        "Name": "Reject accusation or deny responsibility",
+        "Description": "Discard or deny accusations or charges."
+    },
+    "017": {
+        "Name": "Engage in symbolic act",
+        "Description": "Engage in symbolic activities such as holding vigils, attending funerals, and laying wreath."
+    },
+    "018": {
+        "Name": "Make empathetic comment",
+        "Description": "Express empathy, condolences, sympathy, understanding."
+    },
+    "019": {
+        "Name": "Express accord",
+        "Description": "Express common understanding, agreement, or accord."
+    },
+    "02": {
+        "Name": "Appeal",
+        "Description": "All requests, proposals, suggestions and appeals."
+    },
+    "020": {
+        "Name": "Make an appeal or request, not specified",
+        "Description": "All requests, proposals, suggestions and appeals, not otherwise specified."
+    },
+    "021": {
+        "Name": "Appeal for material cooperation",
+        "Description": "Make an appeal for, request, or suggest material cooperation, such as appeal for economic, military cooperation, judicial cooperation, and intelligence cooperation."
+    },
+    "022": {
+        "Name": "Appeal for diplomatic cooperation",
+        "Description": "Make an appeal for, request, or suggest expansion of diplomatic ties or cooperation."
+    },
+    "023": {
+        "Name": "Appeal for material aid",
+        "Description": "Make an appeal for, request, or suggest provision of material assistance, such as appeal for economic aid, military aid, humanitarian aid, and military protection or peacekeeping."
+    },
+    "024": {
+        "Name": "Appeal for political reform",
+        "Description": "Make an appeal for, request, or suggest political change, such as appeal for leadership change, policy change, rights, and change in institutions or regime."
+    },
+    "025": {
+        "Name": "Appeal to yield",
+        "Description": "Make an appeal for, request, or suggest that target yields or concedes, such as appeal for easing of administrative sanction, easing of political dissent, release of persons or property, easing of economic sanctions or boycott or embargo, allow international involvement, and target to de-escalation of military engagement."
+    },
+    "026": {
+        "Name": "Appeal to others to meet or negotiate",
+        "Description": "Propose or suggest meeting, negotiation, or discussion among other parties."
+    },
+    "027": {
+        "Name": "Appeal to others to settle dispute",
+        "Description": "Propose or suggest that others reach a settlement, agreement, or resolution of conflict."
+    },
+    "028": {
+        "Name": "Appeal to others to engage in or accept mediation",
+        "Description": "Propose or suggest that target mediates or accepts the mediation of others."
+    },
+    "03": {
+        "Name": "Express intent to cooperate",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to cooperate."
+    },
+    "030": {
+        "Name": "Express intent to cooperate, not specified",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to cooperate, not otherwise specified."
+    },
+    "031": {
+        "Name": "Express intent to engage in material cooperation",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to engage in or expand material cooperative exchange, such as express intent to cooperate economically, militarily, on judicial matters, and on intelligence."
+    },
+    "032": {
+        "Name": "Express intent to engage in diplomatic cooperation",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to expand diplomatic ties or cooperation."
+    },
+    "033": {
+        "Name": "Express intent to provide material aid",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to provide some form of material support, such as express intent to provide economic aid, military aid, humanitarian aid, and military protection or peacekeeping."
+    },
+    "034": {
+        "Name": "Express intent to institute political reform",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to institute political change, such as express intent to change leadership, change policy, provide rights, and change institutions or regime."
+    },
+    "035": {
+        "Name": "Express intent to yield",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to yield, such as express intent to ease administrative sanctions, ease popular dissent, release persons or property, ease economic sanctions or boycott or embargo, allow international involvement, and de-escalate military engagement."
+    },
+    "036": {
+        "Name": "Express intent to meet or negotiate",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to meet, visit, or engage in talks or negotiations."
+    },
+    "037": {
+        "Name": "Express intent to settle dispute",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to reach a comprehensive settlement, agreement, or resolution to conflict."
+    },
+    "038": {
+        "Name": "Express intent to accept mediation",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to accept mediation."
+    },
+    "039": {
+        "Name": "Express intent to mediate",
+        "Description": "Offer, promise, agree to, or otherwise indicate willingness or commitment to play the role of a mediator."
+    },
+    "04": {
+        "Name": "Consult",
+        "Description": "All consultations and meetings."
+    },
+    "040": {
+        "Name": "Consult, not specified",
+        "Description": "All consultations and meetings, not otherwise specified."
+    },
+    "041": {
+        "Name": "Discuss by telephone",
+        "Description": "Consult, talk on the telephone."
+    },
+    "042": {
+        "Name": "Make a visit",
+        "Description": "Travel to another location for a meeting or other event."
+    },
+    "043": {
+        "Name": "Host a visit",
+        "Description": "Host or receive a visitor at residence, office or home country."
+    },
+    "044": {
+        "Name": "Meet at a third location",
+        "Description": "Meet, come together, gather with others at a neutral location\u2014some place with which none of the attending parties are associated."
+    },
+    "045": {
+        "Name": "Engage in mediation",
+        "Description": "Mediate between two or more parties."
+    },
+    "046": {
+        "Name": "Engage in negotiation",
+        "Description": "Negotiate or bargain with others."
+    },
+    "05": {
+        "Name": "Engage in diplomatic cooperation",
+        "Description": "Initiate, resume, improve, or expand diplomatic, non-material cooperation or exchange."
+    },
+    "050": {
+        "Name": "Engage in diplomatic cooperation, not specified",
+        "Description": "Initiate, resume, improve, or expand diplomatic, non-material cooperation or exchange, not otherwise specified."
+    },
+    "051": {
+        "Name": "Praise or endorse",
+        "Description": "Express support for, commend, approve policy, action, or actor."
+    },
+    "052": {
+        "Name": "Defend verbally",
+        "Description": "Defend verbally, justify policy, action or actor."
+    },
+    "053": {
+        "Name": "Rally support on behalf of",
+        "Description": "Call on other parties to support the target."
+    },
+    "054": {
+        "Name": "Grant diplomatic recognition",
+        "Description": "Grant diplomatic recognition, initiate diplomatic relations with a state or a government."
+    },
+    "055": {
+        "Name": "Apologize",
+        "Description": "Express regret or remorse for an action or situation."
+    },
+    "056": {
+        "Name": "Forgive",
+        "Description": "Express forgiveness, pardon."
+    },
+    "057": {
+        "Name": "Sign formal agreement",
+        "Description": "Ratify, sign, finalize an agreement, treaty."
+    },
+    "06": {
+        "Name": "Engage in material cooperation",
+        "Description": "Initiate, resume, improve, or expand material cooperation or exchange."
+    },
+    "060": {
+        "Name": "Engage in material cooperation, not specified",
+        "Description": "Initiate, resume, improve, or expand material cooperation or exchange, not otherwise specified."
+    },
+    "061": {
+        "Name": "Cooperate economically",
+        "Description": "Initiate, resume, improve, or expand economic exchange or cooperation."
+    },
+    "062": {
+        "Name": "Cooperate militarily",
+        "Description": "Initiate, resume, improve, or expand military exchange or cooperation."
+    },
+    "063": {
+        "Name": "Engage in judicial cooperation",
+        "Description": "Initiate, resume, improve, or expand judicial cooperation."
+    },
+    "064": {
+        "Name": "Share intelligence or information",
+        "Description": "Provide, share, or exchange intelligence or information."
+    },
+    "07": {
+        "Name": "Provide aid",
+        "Description": "All provisions, extension of material aid"
+    },
+    "070": {
+        "Name": "Provide aid, not specified",
+        "Description": "All provisions, extension of material ai, not otherwise specified."
+    },
+    "071": {
+        "Name": "Provide economic aid",
+        "Description": "Extend, provide monetary aid and financial guarantees, grants, gifts and credit."
+    },
+    "072": {
+        "Name": "Provide military aid",
+        "Description": "Extend, provide military and police assistance including arms and personnel."
+    },
+    "073": {
+        "Name": "Provide humanitarian aid",
+        "Description": "Extend, provide humanitarian aid, mainly in the form of emergency assistance."
+    },
+    "074": {
+        "Name": "Provide military protection or peacekeeping",
+        "Description": "Provide peacekeepers or other military forces for protection, extend or expand their mandates."
+    },
+    "075": {
+        "Name": "Grant asylum",
+        "Description": "Provide, grant asylum to persons."
+    },
+    "08": {
+        "Name": "Yield",
+        "Description": "All yieldings, concessions."
+    },
+    "080": {
+        "Name": "Yield, not specified",
+        "Description": "All yieldings, concessions, not otherwise specified."
+    },
+    "081": {
+        "Name": "Ease administrative sanctions",
+        "Description": "Relax or remove all administrative non-force sanctions and penalties, such as ease restrictions on political freedoms, ban on political parties or politicians, curfew, and state of emergency or martial law."
+    },
+    "082": {
+        "Name": "Ease political dissent",
+        "Description": "Cancel, suspend, or postpone any (non-war) activity that constitutes political dissent."
+    },
+    "083": {
+        "Name": "Accede to requests or demands for political reform",
+        "Description": "Yield by instituting requested political changes, such as accede to demands for change in leadership, change in policy, rights, and change in institutions or regime."
+    },
+    "084": {
+        "Name": "Return or release",
+        "Description": "All acts of releasing or returning, such as return, release persons and property."
+    },
+    "085": {
+        "Name": "Ease economic sanction or boycott or embargo",
+        "Description": "Lift, relax, or lessen economic sanctions, boycott, embargoes, or penalties."
+    },
+    "086": {
+        "Name": "Allow international involvement",
+        "Description": "Allow entry of or intervention by international actors, such as receive deployment of peacekeepers, receive inspectors, and allow for humanitarian access."
+    },
+    "087": {
+        "Name": "De-escalate military engagement",
+        "Description": "Concede militarily, stop fighting, or take measures to ease military conflict or tension, such as declare truce or ceasefire, ease military blockade, demobilize armed forces, retreat or surrender militarily."
+    },
+    "09": {
+        "Name": "Investigate",
+        "Description": "All non-covert investigations."
+    },
+    "090": {
+        "Name": "Investigate, not specified",
+        "Description": "All non-covert investigations, not otherwise specified."
+    },
+    "091": {
+        "Name": "Investigate crime or corruption",
+        "Description": "Question or inquire criminal (theft, killing, etc) or corruption cases."
+    },
+    "092": {
+        "Name": "Investigate human rights abuses",
+        "Description": "Inquire or search into human rights abuses such as rape, torture, targeted assassinations, and violations of basic freedoms."
+    },
+    "093": {
+        "Name": "Investigate military action",
+        "Description": "Inquire or search into military activities such as violations of ceasefire, seizures, and invasions."
+    },
+    "094": {
+        "Name": "Investigate war crimes",
+        "Description": "Inquire or investigate potential war crimes or look into allegations of war crimes."
+    },
+    "10": {
+        "Name": "Demand",
+        "Description": "All demands and orders."
+    },
+    "100": {
+        "Name": "Demand, not specified",
+        "Description": "All demands and orders, not otherwise specified."
+    },
+    "101": {
+        "Name": "Demand material cooperation",
+        "Description": "Require, demand that target engages in some form of material exchange, such as demand economic cooperation, military cooperation, judicial cooperation, and intelligence cooperation."
+    },
+    "102": {
+        "Name": "Demand for diplomatic cooperation",
+        "Description": "Require, demand expansion of diplomatic ties or cooperation."
+    },
+    "103": {
+        "Name": "Demand material aid",
+        "Description": "Require, demand provision of material assistance, such as demand economic aid, military aid, humanitarian aid, and military protection or peacekeeping."
+    },
+    "104": {
+        "Name": "Demand political reform",
+        "Description": "Require, demand political change, such as demand leadership change, policy change, rights, and change in institutions or regime."
+    },
+    "105": {
+        "Name": "Demand that target yield",
+        "Description": "Require, demand that target yields or concedes, such as demand easing of administrative sanctions, easing of political dissent, release of persons or property, easing of economic sanctions or boycott or embargo, allow international involvement, and de-escalation of military engagement."
+    },
+    "106": {
+        "Name": "Demand meeting or negotiation",
+        "Description": "Require, order party(ies) to meet, negotiate."
+    },
+    "107": {
+        "Name": "Demand settling of dispute",
+        "Description": "Order parties to a conflict to reach a settlement, agreement, or resolution of conflict."
+    },
+    "108": {
+        "Name": "Demand mediation",
+        "Description": "Require or demand that a third party mediates a conflict or that adversaries accept mediation of another party."
+    },
+    "11": {
+        "Name": "Disapprove",
+        "Description": "Express disapprovals, objections, and complaints."
+    },
+    "110": {
+        "Name": "Disapprove, not specified",
+        "Description": "Express disapprovals, objections, and complaints, not otherwise specified."
+    },
+    "111": {
+        "Name": "Criticize or denounce",
+        "Description": "Condemn, decry a policy or an action; criticize, defame, denigrate responsible parties."
+    },
+    "112": {
+        "Name": "Accuse",
+        "Description": "Charge, blame, incriminate for allegations, such as accuse of crime or corruption, human rights abuses, aggression, war crimes, and espionage or treason."
+    },
+    "113": {
+        "Name": "Rally opposition against",
+        "Description": "Mobilize other parties against the target."
+    },
+    "114": {
+        "Name": "Complain officially",
+        "Description": "Written and institutionalized protests, appeals, and all petition drives and recalls."
+    },
+    "115": {
+        "Name": "Bring lawsuit against",
+        "Description": "Sue, file civil or criminal lawsuit at domestic or international courts."
+    },
+    "116": {
+        "Name": "Find guilty or liable (legally)",
+        "Description": "Find guilty or liable at a court of law."
+    },
+    "12": {
+        "Name": "Reject",
+        "Description": "All rejections and refusals."
+    },
+    "120": {
+        "Name": "Reject, not specified",
+        "Description": "All rejections and refusals, not otherwise specified."
+    },
+    "121": {
+        "Name": "Reject material cooperation",
+        "Description": "Refuse to engage in or expand material exchange, such as reject economic cooperation, military cooperation, judicial cooperation, and intelligence cooperation."
+    },
+    "122": {
+        "Name": "Reject request or demand for material aid",
+        "Description": "Refuse to extend material aid, such as reject request for economic aid, military aid, humanitarian aid, and military protection or peacekeeping."
+    },
+    "123": {
+        "Name": "Reject request or demand for political reform",
+        "Description": "Refuse to institute political change, such as reject request to change leadership, change policy, rights, and change in institutions or regime."
+    },
+    "124": {
+        "Name": "Refuse to yield",
+        "Description": "Reject requests, refuse, or decline to yield, such as refuse to ease administrative sanction, ease popular dissent, release of persons or property, ease economic sanctions or boycott or embargo, allow international involvement, and de-escalate military engagement."
+    },
+    "125": {
+        "Name": "Reject proposal to meet or discuss or negotiate",
+        "Description": "Refuse to meet, discuss, or negotiate."
+    },
+    "126": {
+        "Name": "Reject mediation",
+        "Description": "Refuse involvement of mediators or mediation initiatives."
+    },
+    "127": {
+        "Name": "Reject plan or agreement to settle dispute",
+        "Description": "Reject a proposal or request for a final, comprehensive settlement, peace proposal, or resolution."
+    },
+    "128": {
+        "Name": "Defy norms or law",
+        "Description": "Disobey, challenge, or resist laws or norms."
+    },
+    "129": {
+        "Name": "Veto",
+        "Description": "Refuse to assent or formally reject legislative proposal, recommendation, or resolution."
+    },
+    "13": {
+        "Name": "Threaten",
+        "Description": "All threats, coercive or forceful warnings with serious potential repercussions."
+    },
+    "130": {
+        "Name": "Threaten, not specified",
+        "Description": "All threats, coercive or forceful warnings with serious potential repercussions, not otherwise specified."
+    },
+    "131": {
+        "Name": "Threaten non-force",
+        "Description": "All non-force threats, such as threaten to reduce or stop aid, boycott or embargo or sanction, and reduce or break relations."
+    },
+    "132": {
+        "Name": "Threaten with administrative sanctions",
+        "Description": "Threaten to impose or expand non-force administrative restrictions and penalties, such as threaten to impose restrictions on political freedoms, ban political parties or politicians, impose curfew, and impose state of emergency or martial law."
+    },
+    "133": {
+        "Name": "Threaten political dissent",
+        "Description": "Threaten to mobilize or engage in actions of political dissent such as protest demonstrations, hunger strikes, strikes or boycotts, physical obstructions into buildings or areas, and riots."
+    },
+    "134": {
+        "Name": "Threaten to halt negotiations",
+        "Description": "Threaten to break-up or withdraw from discussion, negotiation, or meeting."
+    },
+    "135": {
+        "Name": "Threaten to halt mediation",
+        "Description": "Threaten to stop mediation activities."
+    },
+    "136": {
+        "Name": "Threaten to halt international involvement",
+        "Description": "Threaten to reduce or stop international intervention by expelling or withdrawing observers, humanitarian agencies, peacekeepers, etc."
+    },
+    "137": {
+        "Name": "Threaten with repression",
+        "Description": "Threaten dissidents with forcible subjugation."
+    },
+    "138": {
+        "Name": "Threaten with military force",
+        "Description": "Threaten to use force, such as threaten blockade, occupation, unconventional attack, conventional attack, unconventional mass violence."
+    },
+    "139": {
+        "Name": "Give ultimatum",
+        "Description": "Give a final warning, ultimate demand or order."
+    },
+    "14": {
+        "Name": "Protest",
+        "Description": "All civilian demonstrations and other collective actions carried out as protests against the target actor."
+    },
+    "140": {
+        "Name": "Engage in political dissent, not specified",
+        "Description": "All civilian demonstrations and other collective actions carried out as protests against the target actor, not otherwise specified."
+    },
+    "141": {
+        "Name": "Demonstrate or rally",
+        "Description": "Dissent collectively, publicly show negative feelings or opinions; rally, gather to protest a policy, action, or actor(s), such as Demonstrate or rally for leadership change, policy change, rights, and change in institutions or regime."
+    },
+    "142": {
+        "Name": "Conduct hunger strike",
+        "Description": "Protest by refusing to eat until certain demands are met, such as conduct hunger strike for leadership change, policy change, rights, and change in institutions or regime."
+    },
+    "143": {
+        "Name": "Conduct strike or boycott",
+        "Description": "Protest by refusing to work or cooperate until certain demands are met, such as conduct strike or boycott for leadership change, policy change, rights, and change in institutions or regime."
+    },
+    "144": {
+        "Name": "Obstruct passage or block",
+        "Description": "Protest by blocking entry and/or exit into building or area, such as obstruct passage to demand leadership change, policy change, rights, and change in institutions or regime."
+    },
+    "145": {
+        "Name": "Protest violently or riot",
+        "Description": "Protest forcefully, in a potentially destructive manner, such as engage in violent protest to demand leadership change, policy change, rights, and change in institutions or regime."
+    },
+    "15": {
+        "Name": "Exhibit military posture",
+        "Description": "All military or police moves that fall short of the actual use of force."
+    },
+    "150": {
+        "Name": "Exhibit military or police power, not specified",
+        "Description": "All military or police moves that fall short of the actual use of force, not otherwise specified."
+    },
+    "151": {
+        "Name": "Increase police alert status",
+        "Description": "Increase police alert status."
+    },
+    "152": {
+        "Name": "Increase military alert status",
+        "Description": "Heighten military readiness and caution; be prepared to use force."
+    },
+    "153": {
+        "Name": "Mobilize or increase police power",
+        "Description": "Mobilize or increase police power."
+    },
+    "154": {
+        "Name": "Mobilize or increase armed forces",
+        "Description": "Increase the number of military personnel and/or weapons."
+    },
+    "155": {
+        "Name": "Mobilize or increase cyber-forces",
+        "Description": "Increase the capacity to wage cyber-warfare."
+    },
+    "16": {
+        "Name": "Reduce relations",
+        "Description": "All reductions in normal, routine, or cooperative relations."
+    },
+    "160": {
+        "Name": "Reduce relations, not specified",
+        "Description": "All reductions in normal, routine, or cooperative relations, not otherwise specified."
+    },
+    "161": {
+        "Name": "Reduce or break diplomatic relations",
+        "Description": "Curtail, decrease, break, or terminate diplomatic exchange."
+    },
+    "162": {
+        "Name": "Reduce or stop material aid",
+        "Description": "Reductions or terminations of aid, such as reduce or stop economic assistance, military assistance, and humanitarian assistance."
+    },
+    "163": {
+        "Name": "Impose embargo or boycott or sanctions",
+        "Description": "Stop or restrict commercial or other material exchange as a form of protest or punishment."
+    },
+    "164": {
+        "Name": "Halt negotiations",
+        "Description": "Terminate discussions, negotiations."
+    },
+    "165": {
+        "Name": "Halt mediation",
+        "Description": "Terminate mediation activities."
+    },
+    "166": {
+        "Name": "Expel or withdraw",
+        "Description": "Terminate the presence of groups or organizations, such as expel or withdraw peacekeepers, inspectors or observers, and aid agencies."
+    },
+    "17": {
+        "Name": "Coerce",
+        "Description": "Repression, violence against civilians, or their rights or properties."
+    },
+    "170": {
+        "Name": "Coerce, not specified",
+        "Description": "Repression, violence against civilians, or their rights or properties, not otherwise specified."
+    },
+    "171": {
+        "Name": "Seize or damage property",
+        "Description": "Use of force against property or violation of property rights, such as confiscate property, and destroy property."
+    },
+    "172": {
+        "Name": "Impose administrative sanctions",
+        "Description": "Formal decrees, laws, or policies aimed at curbing the rights of civilians, such as impose restrictions on political freedoms, ban political parties or politicians, impose curfew, and impose state of emergency or martial law."
+    },
+    "173": {
+        "Name": "Arrest or detain",
+        "Description": "Legal or extrajudicial arrests, detentions, or imprisonments."
+    },
+    "174": {
+        "Name": "Expel or deport individuals",
+        "Description": "Formal removal or expulsion of individuals from territories, typically following legal proceedings."
+    },
+    "175": {
+        "Name": "Use repression",
+        "Description": "Actively repress collective actions of dissent by forcing subjugation through crowd control tactics, arrests, etc."
+    },
+    "176": {
+        "Name": "Attack cybernetically",
+        "Description": "Illegal or unauthorized attack on computers, networks, or accounts."
+    },
+    "18": {
+        "Name": "Assault",
+        "Description": "Use of unconventional forms of violence which do not require high levels of organization or conventional weaponry."
+    },
+    "180": {
+        "Name": "Use unconventional violence, not specified",
+        "Description": "Use of unconventional forms of violence which do not require high levels of organization or conventional weaponry, not otherwise specified."
+    },
+    "181": {
+        "Name": "Abduct or hijack or take hostage",
+        "Description": "Kidnap, take hostage, hijack, or forcibly seize control of an aircraft, car, bus, ship, etc."
+    },
+    "182": {
+        "Name": "Physically assault",
+        "Description": "Attack physical well-being of individuals without the use of weaponry, such as sexually assault, torture, and kill by physical assault."
+    },
+    "183": {
+        "Name": "Conduct suicide or car or other non-military bombing",
+        "Description": "The use of explosive devices or improvised explosives outside of military engagements, such as carry out suicide bombing, vehicular bombing, roadside bombing, and location bombing."
+    },
+    "184": {
+        "Name": "Use as human shield",
+        "Description": "Use civilians as buffer on the front lines or in other dangerous environments."
+    },
+    "185": {
+        "Name": "Attempt to assassinate",
+        "Description": "Attempt but fail to kill politically significant and influential persons."
+    },
+    "186": {
+        "Name": "Assassinate",
+        "Description": "Kill politically significant and influential persons."
+    },
+    "19": {
+        "Name": "Fight",
+        "Description": "All uses of conventional force and acts of war typically by organized armed groups."
+    },
+    "190": {
+        "Name": "Use conventional military force, not specified",
+        "Description": "All uses of conventional force and acts of war typically by organized armed groups, not otherwise specified."
+    },
+    "191": {
+        "Name": "Impose blockade or restrict movement",
+        "Description": "Prevent entry into and/or exit from a territory using armed forces."
+    },
+    "192": {
+        "Name": "Occupy territory",
+        "Description": "Occupy, seize control of a territory using armed forces."
+    },
+    "193": {
+        "Name": "Fight with small arms and light weapons",
+        "Description": "Attack using small arms and light weapons such as rifles, machine-guns, and mortar shells."
+    },
+    "194": {
+        "Name": "Fight with artillery and tanks",
+        "Description": "Attack using artillery, tanks, and rocket fire."
+    },
+    "195": {
+        "Name": "Employ aerial weapons",
+        "Description": "Attack, bomb from air, such as employ precision-guided aerial munitions and remotely piloted aerial munitions."
+    },
+    "196": {
+        "Name": "Violate ceasefire",
+        "Description": "Reinitiate fighting in the midst of a formal or informal ceasefire or truce."
+    },
+    "20": {
+        "Name": "Engage in unconventional mass violence",
+        "Description": "All uses of unconventional force that are meant to cause mass destruction, casualties, and suffering."
+    },
+    "200": {
+        "Name": "Use massive unconventional force, not specified",
+        "Description": "All uses of unconventional force that are meant to cause mass destruction, casualties, and suffering, not otherwise specified."
+    },
+    "201": {
+        "Name": "Engage in mass expulsion",
+        "Description": "Force large groups of people or populations out of some territory."
+    },
+    "202": {
+        "Name": "Engage in mass killings",
+        "Description": "Kill a substantial number of people, typically with the intention of ridding a territory of a particular group of people."
+    },
+    "203": {
+        "Name": "Engage in ethnic cleansing",
+        "Description": "Use mass expulsions and/or mass killings targeting a specific ethnic group."
+    },
+    "204": {
+        "Name": "Use weapons of mass destruction",
+        "Description": "Attack with unconventional weapons that are meant to cause massive destruction and casualties, such as use chemical, biological, or radiological weapons, and detonate nuclear weapons."
+    }
+}

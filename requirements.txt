@@ -1,0 +1,26 @@
+emoji==1.6.1
+fasttext==0.9.2
+langchain==0.2.3
+langchain-community
+langchain-core
+matplotlib==3.6.2
+news_please==1.5.35
+newspaper3k==0.2.8
+numpy
+openai==0.27.4
+pandas==1.5.1
+paramiko==3.4.0
+rank_bm25==0.2.2
+requests
+tiktoken==0.6.0
+torch==2.3.0
+tqdm==4.64.1
+user_agent==0.1.10
+vllm==0.4.2
+
+# Installation notes:
+# - For Apple Silicon Macs, see INSTALLATION.md for special instructions
+# - vLLM requires CUDA for GPU acceleration
+# - Some packages may need specific versions for compatibility
+# See requirements_full.txt for complete version specifications
+

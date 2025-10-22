@@ -1,0 +1,32 @@
+{
+    "Asia": {
+        "Southern Asia": 9,
+        "Western Asia": 18,
+        "South-eastern Asia": 11,
+        "Eastern Asia": 8,
+        "Central Asia": 5
+    },
+    "Europe": {
+        "Northern Europe": 16,
+        "Southern Europe": 16,
+        "Western Europe": 9,
+        "Eastern Europe": 10
+    },
+    "Africa": {
+        "Northern Africa": 7,
+        "Sub-Saharan Africa": 53
+    },
+    "Oceania": {
+        "Polynesia": 10,
+        "Australia and New Zealand": 6,
+        "Melanesia": 5,
+        "Micronesia": 8
+    },
+    "Americas": {
+        "Latin America and the Caribbean": 52,
+        "Northern America": 5
+    },
+    "NaN": {
+        "NaN": 1
+    }
+}

@@ -1,0 +1,161 @@
+# ============================================================================
+# Python
+# ============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============================================================================
+# Virtual Environments
+# ============================================================================
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+event_forecast/
+mirai/
+
+# ============================================================================
+# Project Outputs (Generated Data)
+# ============================================================================
+output/
+output_eval/
+
+# ============================================================================
+# Large Data Files (Users download separately)
+# ============================================================================
+# MIRAI dataset files
+
+data/*
+
+# Data archives (large files)
+*.zip
+!MIRAI_data.zip.md5  # Keep checksums if you add them
+MIRAI_data.zip
+
+# Keep directory structure markers
+!data/MIRAI/.gitkeep
+!data/MIRAI/test/.gitkeep
+!data/MIRAI/test_subset/.gitkeep
+
+# ============================================================================
+# Jupyter Notebooks
+# ============================================================================
+.ipynb_checkpoints/
+# Optionally ignore all notebooks (comment out if you have example notebooks to share)
+# *.ipynb
+
+# ============================================================================
+# IDEs and Editors
+# ============================================================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ============================================================================
+# Operating Systems
+# ============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+
+# ============================================================================
+# Secrets and Configuration
+# ============================================================================
+.env
+.env.local
+.env.*.local
+*.key
+secrets/
+
+# ============================================================================
+# Logs and Temporary Files
+# ============================================================================
+*.log
+logs/
+tmp/
+*.tmp
+temp/
+
+# ============================================================================
+# Model and Cache Files
+# ============================================================================
+.cache/
+models/
+checkpoints/
+
+# HuggingFace cache (optional - uncomment to ignore)
+# ~/.cache/huggingface/
+
+# ============================================================================
+# Analysis and Results
+# ============================================================================
+plots/*.png
+plots/*.pdf
+!plots/.gitkeep  # Keep plots directory structure
+*.xlsx
+results/
+
+# ============================================================================
+# Archived/Unused Files
+# ============================================================================
+unused/
+archive/
+old/
+
+# ============================================================================
+# Documentation and Release Helper Files (Optional)
+# ============================================================================
+# Uncomment these if you don't want to track release helper files
+# RELEASE_CHECKLIST.md
+# CLEANUP_FOR_RELEASE.md
+# cleanup_for_release.sh
+*_BACKUP.md
+*_OLD
+# Temporary data files
+data/text_tmp/
