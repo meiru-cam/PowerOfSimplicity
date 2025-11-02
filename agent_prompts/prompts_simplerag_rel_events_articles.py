@@ -26,5 +26,5 @@ sys_relation_prompt = PromptTemplate(
     template=SYS_PROMPT_RELATION_QUERY)
 
 relation_prompt = PromptTemplate(
-    input_variables=["actor1_name", "actor2_name", "future_date_nlp", "current_date_nlp", "future_date", "actor1_code", "actor2_code", "events", "cameo_description"],
+    input_variables=["actor1_name", "actor2_name", "future_date_nlp", "current_date_nlp", "future_date", "actor1_code", "actor2_code", "events", "cameo_description", "relation_distribution", "article_titles"],
     template=PROMPT_RELATION_QUERY) 

@@ -85,6 +85,20 @@ python simpleRAG.py \
 bash scripts/run_baseline_mini_simpleRAG.sh
 ```
 
+**Relation statistics only (no events):**
+```bash
+cd agents
+python simpleRAG.py \
+    --dataset test_subset \
+    --model_name gpt-4o-mini \
+    --plan simplerag_rel \
+    --event_k 0 \
+    --temperature 0.0 \
+    --timediff 1 \
+    --rounds 1 \
+    --output_dir ../output/simplerag_rel
+```
+
 ### Baseline Methods
 
 **Direct I/O (Zero-shot):**
@@ -153,13 +167,19 @@ The evaluation computes:
 
 ### SimplifiedRAG Plans
 
-| Plan | Data Used | Description |
-|------|-----------|-------------|
-| `simplerag_rel` | Relation statistics | Statistical distribution only |
-| `simplerag_e_uni` | Events (uni-directional) | A→B events only |
-| `simplerag_e_bi` | Events (bi-directional) | A→B and B→A events |
-| `simplerag_rel_e_uni` | Relations + Events (uni) | **Recommended** |
-| `simplerag_rel_e_uni_art_uni_title` | All data types | Relations + Events + News titles |
+| Plan | Data Used | Description | Typical `event_k` |
+|------|-----------|-------------|-------------------|
+| `simplerag_rel` | Relation statistics | Statistical distribution only | `0` |
+| `simplerag_e_uni` | Events (uni-directional) | A→B events only | `30` |
+| `simplerag_e_bi` | Events (bi-directional) | A→B and B→A events | `30` |
+| `simplerag_rel_e_uni` | Relations + Events (uni) | **Recommended** | `30` |
+| `simplerag_rel_e_bi` | Relations + Events (bi) | Relations + bidirectional events | `30` |
+| `simplerag_art_uni_title` | Article titles (uni) | News article titles only | Any |
+| `simplerag_art_bi_title` | Article titles (bi) | Bidirectional article titles | Any |
+| `simplerag_rel_e_uni_art_uni_title` | All data types (uni) | Relations + Events + News titles | `30` |
+| `simplerag_rel_e_bi_art_bi_title` | All data types (bi) | All data, bidirectional | `30` |
+
+**Note:** For `simplerag_rel`, use `--event_k 0` to retrieve only relation statistics without events.
 
 ### Temporal Distances
 

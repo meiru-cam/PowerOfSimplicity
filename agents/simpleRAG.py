@@ -945,6 +945,20 @@ if __name__ == "__main__":
 
                 if args.event_k == 0:
                     row["Events"] = []
+                    row["DirectEvents"] = []
+                    row["ThirdPartyEvents"] = []
+                    
+                    # Still need relation distribution for "rel" plans
+                    relation_distribution = get_relation_distribution(date_range=DateRange(start_date=Date("2023-01-01"), end_date=Date(curr_date_str)), head_entities=[ISOCode(row['Actor1CountryCode'])], tail_entities=[ISOCode(row['Actor2CountryCode'])])
+                    codes_in_rel_dist = [item[0] for item in relation_distribution.items()]
+                    row['RelationDistribution'] = relation_distribution
+                    
+                    # Get CAMEO descriptions from relation distribution
+                    list_relation_codes = codes_in_rel_dist.copy()
+                    list_relation_codes = list(set(list_relation_codes))
+                    list_relation_codes = sorted(list_relation_codes, key=lambda x: int(x.code))
+                    cameo_descriptions = {relation: map_cameo_to_relation(relation) for relation in list_relation_codes}
+                    row['CameoDescription'] = cameo_descriptions
 
                 else:
                     # retrieve events using get_events
